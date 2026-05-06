@@ -30,3 +30,5 @@ plt.show()
 ```
 # OUTPUT:
 
+
+<img width="1009" height="534" alt="image" src="https://github.com/user-attachments/assets/4531d6da-c452-45ce-b5e6-6aa402c8dae3" />
